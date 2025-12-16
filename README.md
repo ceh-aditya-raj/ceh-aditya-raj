@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://tryhackme.com/p/your_username">
+  <a href="https://tryhackme.com/p/RajAditya">
     <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=253153" />
   </a>
 </p>
