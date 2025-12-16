@@ -1,26 +1,26 @@
-# Aditya Raj
-**Cybersecurity Researcher | Vulnerability Disclosure | Exploit Analysis**
+<h1 align="center">Aditya Raj</h1>
+<h3 align="center">Cybersecurity Researcher | Vulnerability Disclosure | Exploit Analysis</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Cybersecurity+Researcher;Vulnerability+Research+%26+Responsible+Disclosure;CTFs+%7C+Red+Teaming+%7C+Exploit+Development" />
+</p>
+
+<p align="center">
+  <a href="https://tryhackme.com/p/your_username">
+    <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=253153" />
+  </a>
+</p>
 
 ---
 
 ## Who I Am
 I work at the intersection of **offensive security, vulnerability research, and defensive understanding**.  
-My focus is on discovering real-world security flaws, understanding their root cause at a system level, and reporting them responsibly.
+My primary focus is on discovering **real-world security flaws**, analyzing their **root cause**, and reporting them through **responsible disclosure**.
 
-I prefer **depth over noise**, **impact over volume**, and **ethics over shortcuts**.
-
----
-
-## Core Focus Areas
-- Web Application Security (SQL Injection, IDOR, Authentication & OTP Bypasses)
-- Vulnerability Research & Responsible Disclosure
-- Binary Exploitation & Memory Corruption Concepts
-- Malware & Exploit Analysis
-- Static Code Analysis (C / Java)
-- CTFs (TryHackMe, labs, hands-on exploitation)
+I value **depth over noise**, **impact over numbers**, and **ethics over shortcuts**.
 
 ---
+
 ## Focus Areas
 - Web Application Security (SQL Injection, IDOR, Authentication & OTP Bypass)
 - Vulnerability Research, Root Cause Analysis & CVE Discovery
@@ -28,14 +28,6 @@ I prefer **depth over noise**, **impact over volume**, and **ethics over shortcu
 - Malware Analysis & Offensive Tradecraft
 - Static Code Analysis (C / Java)
 - Red Team Operations (Active Directory, Memory Exploitation, Windows/Linux Privilege Escalation)
-
-## Real-World Vulnerability Work
-- Identified **SQL Injection** in a university system exposing **10,508 records**
-- Discovered **IDOR** leading to exposure of government-issued identity documents
-- Reported **OTP bypass vulnerabilities** in financial, e-commerce, and political platforms
-- Discovered and reported **CVE-2025-XXXXX** (details responsibly disclosed)
-
-> Sensitive data is never published. All findings follow responsible disclosure practices.
 
 ---
 
@@ -46,18 +38,65 @@ I prefer **depth over noise**, **impact over volume**, and **ethics over shortcu
 - Discovered **CVE-2025-XXXXX** in modern web applications leading to **RCE and full server compromise**  
   *(responsibly disclosed; technical details withheld)*
 
-## Projects
-- 🛡️ **Static C Code Analyzer** – Identifies memory-level vulnerabilities leading to RCE and privilege escalation
-- 🔍 **DNS-Based Reverse Shell** – Covert initial access via DNS with TCP-based C2 communication
-- 🧪 **Binary Exploitation Workflow Simulator** – Visualization and simulation of real-world exploitation paths
+---
 
+## Tools & Security Arsenal
+<p>
+  <img src="https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hashcat-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hydra-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Nmap-007ACC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge" />
+</p>
 
 ---
 
-## CTF & Hands-On Practice
+## Operating Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=windows,linux" />
+</p>
+
+**Distributions:** Kali Linux · Ubuntu · Parrot OS · Whonix
+
+---
+
+## Tech Stack & Lab Environment
+<p>
+  <img src="https://skillicons.dev/icons?i=vmware,virtualbox,docker" />
+</p>
+
+- Virtualized home labs
+- Attack & defense simulation environments
+- Controlled malware and exploitation testing setups
+
+---
+
+## Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c" />
+</p>
+
+---
+
+## Selected Projects
+- 🛡️ **Static C Code Analyzer**  
+  Detects memory-level vulnerabilities that may lead to RCE or privilege escalation
+
+- 🔍 **DNS-Based Reverse Shell**  
+  Uses DNS for initial foothold followed by TCP-based C2 communication
+
+- 🧪 **Binary Exploitation Workflow Simulator**  
+  Visualizes real-world exploitation paths and control-flow hijacking
+
+---
+
+## CTFs & Hands-On Practice
 - Active TryHackMe participant
-- Strong focus on **understanding why an exploit works**, not just solving it
-- Uses CTFs to reinforce real-world attack chains and defensive gaps
+- Uses CTFs to reinforce **real-world attack chains**, not just challenge completion
+- Focus on understanding **why an exploit works**, not only how
 
 ---
 
@@ -73,15 +112,17 @@ Security research exists to **reduce risk**, not to create chaos.
 
 ## Currently Working On
 - Advanced static analysis for memory-unsafe C code
-- Vulnerability writeups with professional documentation
+- Professional vulnerability writeups and case studies
 - Research-oriented security tooling
 
 ---
 
-## Contact
-- GitHub: You’re already here
-- LinkedIn: *(add when ready)*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
 
 ---
 
-> “Break to understand. Understand to secure.”
+<p align="center">
+  <i>“Break to understand. Understand to secure.”</i>
+</p>
