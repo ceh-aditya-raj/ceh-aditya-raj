@@ -13,7 +13,7 @@ I break systems to understand them and help fix them responsibly.
 - Reported critical vulnerabilities in large-scale production systems
 - Discovered OTP bypasses in financial & political platforms
 - Identified IDOR exposing government-issued documents
-- CVE-2025-XXXXX (details responsibly disclosed)
+- Discovered CVE-2025-XXXXX on Web-Apps leveraging to RCE and Full server control. (details responsibly disclosed)
 
 ## Projects
 - 🛡️ Static C Code Analyzer – detects memory-level vulnerabilities
