@@ -66,7 +66,8 @@ I value **depth over noise**, **impact over numbers**, and **ethics over shortcu
 
 ## Tech Stack & Lab Environment
 <p>
-  <img src="https://skillicons.dev/icons?i=vmware,virtualbox" />
+  <img src="Vmware-logo.png" alt="VMware" height="40" />
+  <img src="VirtualBox_2024_Logo.svg.png" alt="VirtualBox" height="40" />
 </p>
 
 - Virtualized home labs
