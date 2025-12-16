@@ -1,7 +1,7 @@
 # Aditya Raj
 **Cybersecurity Researcher | Vulnerability Disclosure | Exploit Analysis**
 
-[![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=253153)](https://tryhackme.com/p/your_username)
+[![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=253153)](https://tryhackme.com/p/RajAditya)
 
 ---
 
