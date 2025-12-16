@@ -57,7 +57,7 @@ I value **depth over noise**, **impact over numbers**, and **ethics over shortcu
 
 ## Operating Systems
 <p>
-  <img src="https://skillicons.dev/icons?i=windows,linux" />
+  <img src="https://skillicons.dev/icons?i=windows,linux,kali" />
 </p>
 
 **Distributions:** Kali Linux · Ubuntu · Parrot OS · Whonix
@@ -66,7 +66,7 @@ I value **depth over noise**, **impact over numbers**, and **ethics over shortcu
 
 ## Tech Stack & Lab Environment
 <p>
-  <img src="https://skillicons.dev/icons?i=vmware,virtualbox,docker" />
+  <img src="https://skillicons.dev/icons?i=vmware,virtualbox" />
 </p>
 
 - Virtualized home labs
@@ -117,11 +117,6 @@ Security research exists to **reduce risk**, not to create chaos.
 - Research-oriented security tooling
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
 ---
 
 <p align="center">
