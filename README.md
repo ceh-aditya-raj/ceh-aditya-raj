@@ -118,8 +118,6 @@ Security research exists to **reduce risk**, not to create chaos.
 - Research-oriented security tooling
 
 ---
----
-
 <p align="center">
   <i>“Break to understand. Understand to secure.”</i>
 </p>
