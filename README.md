@@ -8,19 +8,19 @@
 </p>
 
 <p align="center">
-  <a href="https://alhamrizvi-cloud.github.io/">
+  <a href="https://github.io/">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome"/>
   </a>
-  <a href="https://alhamrizvi.wordpress.com/">
+  <a href="https:// /">
     <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=wordpress"/>
   </a>
-  <a href="mailto:its47h4m@gmail.com">
+  <a href="mailto: adityaraj060305@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/alham-rizvi">
+  <a href="https://www.linkedin.com/in/ceh-aditya-raj">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://twitter.com/Alhamrizvii">
+  <a href="https://twitter.com/">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x"/>
   </a>
 </p>
@@ -31,7 +31,7 @@
 Offensive Security Researcher & Penetration Tester specializing in  
 <strong>Web, API, and Network Security</strong>.
 
-- 🐞 Verified Bug Bounty Hunter (7+ valid vulnerabilities)
+- 🐞 Verified Bug Bounty Hunter (6+ valid vulnerabilities)
 - 🏆 Top **#1 National Rank** on TryHackMe
 - ⚔️ Strong focus on exploitation, reconnaissance & automation
 
