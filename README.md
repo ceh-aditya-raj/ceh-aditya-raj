@@ -31,7 +31,7 @@
 Offensive Security Researcher & Penetration Tester specializing in  
 <strong>Web, API, and Network Security</strong>.
 
-- 🐞 Vulnerability Researcher and Responsible Disclosure / Mitigation (6+ valid vulnerabilities)
+- 🐞 Vulnerability Researcher and Responsible Disclosure (6+ valid vulnerabilities)
 - 🏆 Top **#1 National Rank** on TryHackMe
 - ⚔️ Strong focus on exploitation, reconnaissance & automation
 
