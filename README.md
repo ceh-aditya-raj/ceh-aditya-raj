@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=7A7A7A&center=true&vCenter=true&width=600&lines=Alham+Rizvi;Offensive+Security+Researcher;Penetration+Tester" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=7A7A7A&center=true&vCenter=true&width=600&lines=ADITYA+RAJ;Offensive+Security+Researcher;Penetration+Tester" />
 </h1>
 
 <p align="center">
